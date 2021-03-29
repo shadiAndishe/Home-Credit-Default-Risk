@@ -30,3 +30,4 @@ For the final submission, instead of predicting test data after evaluation with 
 loop and I predicted test data in each iteration, and then all of them were blended. This improved the AUC.
 # Experimental Result
 I reached to the Public score 0.79052 and Private score 0.78741 as it shown below.
+![Result in Kaggle](https://user-images.githubusercontent.com/45369296/112872613-dcf38700-90c0-11eb-8265-a011886f4e81.JPG)
